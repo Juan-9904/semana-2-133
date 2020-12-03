@@ -1,12 +1,16 @@
 <template>
   <div id="app">
+      <TeamCard/>
   </div>
 </template>
 
 <script>
-
-export default {
-  name: 'App',
-}
+    import TeamCard from './components/TeamCard';
+    export default {
+    name: 'App',
+    components: {
+        TeamCard
+    }
+    }
 </script>
 

@@ -1,0 +1,7 @@
+{
+    "codigo": 1,
+    "nombre": "Lucas Mera",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris condimentum ac elit et accumsan.",
+    "rol": "Desarrollador backend",
+    "image": "path/to/image"
+}
