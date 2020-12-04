@@ -1,0 +1,47 @@
+[
+  {
+    "imgUrl": 		"./Alejandra.jpg",
+    "name": 		"Alejandra Rosero",
+    "Universidad": 	"Universidad de Nariño",
+    "Carrera": 		"Ingeniería de Sistemas",
+    "Edad": 		"20 años",
+    "Pasatiempos" : 	"Grabar videos,pintar y relacionarse con personas"
+  },
+
+  {
+    "imgUrl": 		"./Sebastian.jpg",
+    "name": 		"Sebastián Aristizábal",
+    "Universidad": 	"Corporación Unificada de Educación Superior",
+    "Carrera": 		"Técnico contable",
+    "Edad": 		"21 años",
+    "Pasatiempos" : 	"Jugar Basketball y aprender cosas nuevas"
+  },
+
+  {
+    "imgUrl": 		"./Juan.jpg",
+    "name": 		"Juan Diego Quintero",
+    "Universidad": 	"Universidad de Caldas",
+    "Carrera": 		"Ingeniero Mecatrónico",
+    "Edad": 		"19 años",
+    "Pasatiempos" : 	"Deportes, lectura y servicio a la comunidad"
+  },
+
+  {
+    "imgUrl": 		"./Nicolas.jpg",
+    "name": 		"Nicolás Figueroa",
+    "Universidad": 	"Universidad del Bosque",
+    "Carrera": 		"Ingeniero de Sistemas",
+    "Edad": 		"30 años",
+    "Pasatiempos" : 	"Practicar actividades al aire libre y leer"
+  },
+
+  {
+    "imgUrl": 		"./Deiber.jpg",
+    "name": 		"Deiber Alejandro Micán",
+    "Universidad": 	"Universidad Nacional de Colombia",
+    "Carrera": 		"Ingeniero Mecánico",
+    "Edad": 		"46 años",
+    "Pasatiempos" : 	"Jugar baloncesto y pasar tiempo en familia"
+  },
+
+]
